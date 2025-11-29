@@ -3,8 +3,9 @@ name=SHYFEM Tools
 qgisMinimumVersion=3.0
 description=Export and import SHYFEM .grd files
 version=1.0
-author=Your Name
+author=Alejandro Paladio Hernandez
 email=alejandropaladiohernandez@cnr.it
 
 [server]
+
 service=False
