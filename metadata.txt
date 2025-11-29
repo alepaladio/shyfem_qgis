@@ -6,6 +6,7 @@ version=1.0
 author=Alejandro Paladio Hernandez
 email=alejandropaladiohernandez@cnr.it
 
-[server]
-
-service=False
+# Reach out!
+homepage=https://github.com/alepaladio
+repository=https://github.com/alepaladio/shyfem_qgis/
+tracker=https://github.com/alepaladio/shyfem_qgis//issues
